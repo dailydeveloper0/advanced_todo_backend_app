@@ -1,0 +1,9 @@
+{
+    "port":"",
+    "jwtPrivateKey":"",
+    "mysql":{
+        "db":"",
+        "user":"",
+        "password":""
+    }
+}

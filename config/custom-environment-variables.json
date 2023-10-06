@@ -1,0 +1,9 @@
+{
+    "port":"todoBackendPort",
+    "jwtPrivateKey":"jwtPrivateKey",
+    "mysql":{
+        "db":"mysql_DB",
+        "user":"mysql_USER",
+        "password":"mysql_USER_PASSWORD"
+    }
+}
